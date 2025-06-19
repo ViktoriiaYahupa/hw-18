@@ -1,7 +1,7 @@
 {
   "name": "hw-18",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "js/index.js",
   "scripts": {
     "test": "test"
   },
