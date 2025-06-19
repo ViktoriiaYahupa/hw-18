@@ -1,0 +1,33 @@
+{
+  "name": "hw-18",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktoriiaYahupa/hw-18.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Viktoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktoriiaYahupa/hw-18/issues"
+  },
+  "homepage": "https://github.com/ViktoriiaYahupa/hw-18#readme",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "globals": "^16.2.0",
+    "prettier": "^3.5.3"
+  }
+}
